@@ -643,5 +643,5 @@ Copyright (c) 2025-2026 **BlackClover** (Kaustav Saha & Aritra Chowdhury)
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by <b>BlackClover</b> (Kaustav Saha & Aritra Chowdhury) • © 2026 CuraCore. All Rights Reserved.</sub>
+  <sub>Built with ❤️ by <b>BlackClover</b> (Aritra Chowdhury & Kaustav Saha) • © 2026 CuraCore. All Rights Reserved.</sub>
 </div>
